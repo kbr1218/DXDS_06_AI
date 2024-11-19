@@ -4,6 +4,10 @@
 *.bin
 .idea/
 .vscode/
+.png
+.jpg
+.jpeg
+.txt
 
 # 폴더
 */cache/*
