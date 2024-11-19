@@ -11,10 +11,10 @@
 
 # 폴더
 */cache/*
-*/data/*
+data/
 교안/
 */img/*
-*/sample/*
+sample/
 
 ### JupyterNotebooks ###
 .ipynb_checkpoints
